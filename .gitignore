@@ -1,0 +1,7 @@
+
+yellow_tripdata_2025-01.parquet
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
